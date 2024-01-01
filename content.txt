@@ -1,0 +1,41 @@
+hero
+-----------------------------------
+
+h1 - how technology shapes strength and identity
+p - Using modern technology & modern frameworks.
+btn - learn more 
+btn - Award Winning
+
+Strength 
+--------------------------------------------
+
+h2 - Powerful Technologies For Strong Futures
+p - It is our principle to offer projects that will add value to all humanity by providing quality and high customer satisfaction by producing innovative solutions with up- technological environment.
+
+card 1 h3 - Modern Technology
+card 1 text - lorem
+card 1 btn - Services
+
+card 2 h3 - Science Exploration
+card 2 text - lorem
+card 2 btn - projects
+
+section btn - Get to know us 
+
+IT solutions
+----------------------------------------------------
+
+h2 - Technological IT Solutions for Tomorrow's Business
+p - Your business operations with our digital solutions
+
+blog 1 h3 - Science Exploration
+blog 2 h3 - Cyber Security
+blog 3 h3 - QA & Testing
+blog 4 h3 - Consultancy
+
+team
+--------------------------------------------------------
+
+h2  - Exploring the Beauty in White Dreams
+p - Let your workload lighten with our best digital solutions.
+
